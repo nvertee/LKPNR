@@ -279,6 +279,6 @@ def prepare_MIND_200k():
 
 
 if __name__ == '__main__':
-    # prepare_MIND_small()
+    prepare_MIND_small()
     # prepare_MIND_large()
-    prepare_MIND_200k()
+    # prepare_MIND_200k()
